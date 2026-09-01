@@ -1,3 +1,3 @@
 # CONTATOS
 
-email: marcospauloc089@gmail.com
+email: marcospauloc089@gmail.co
